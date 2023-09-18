@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
+-🎓 I am currently in 3rd year of my B.Tech in Cloud Computing and Virtualization Technology from UPES, Dehradun
+
 - 🔭 I’m currently working on **Crime,Harassment and Offence Registry, MEDIAHUB, Blogging Website(Based of Docker Concepts)**
 
 - 🌱 I’m currently learning **MongoDB, Docker, NodeJS, PHP,**
+
+- 👯 I’m looking to collaborate on different projects to get valuable experience
 
 - 📫 How to reach me **devganaditya@gmail.com**
 
