@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Crime,Harassment and Offence Registry, MEDIAHUB, Blogging Website(Based of Docker Concepts)**
 
-- 🌱 I’m currently learning **MongoDB, Docker, NodeJS, PHP,**
+- 🌱 I’m currently learning **MongoDB, Docker, JS**
 
 - 📫 How to reach me **devganaditya@gmail.com**
 
