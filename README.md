@@ -6,6 +6,8 @@
 
 - 💬 Ask me about **C, C++, Python, Java**
 
+- Here is my [Resume](https://drive.google.com/file/d/1mNsrAHeFHLjFDGjkImSyyKchkmc154fk/view?usp=sharing)
+
 - 📫 How to reach me **devganaditya@gmail.com** or **500093618@stu.upes.ac.in**
 
 ## 🌐 Socials:
