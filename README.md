@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<img align="right" height="150" src="https://file.forms.app/sitefile/funny-developer-memes-36.gif" />
+<img align="right" height="150" src="https%3A%2F%2Ffile.forms.app%2Fsitefile%2Ffunny-developer-memes-36.gif" />
 - 🔭 I’m currently working on [D.A.R.T.S](https://github.com/Yorichi07/darts)
 
 - 🌱 I’m currently learning **Angular, Flutter, Spring**
