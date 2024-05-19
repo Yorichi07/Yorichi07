@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<img src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE"/>
+<img src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" />
 - 🎓 I am currently in 3rd year of my B.Tech in Cloud Computing and Virtualization Technology from UPES, Dehradun
 
 - 🔭 I’m currently working on [D.A.R.T.S](https://github.com/Yorichi07/darts)
