@@ -4,8 +4,6 @@
 <img align="right" height="150" src="https://c.tenor.com/m9Ega9zEj1EAAAAM/coder-tester.gif" />
 - 🔭 I’m currently working on [D.A.R.T.S](https://github.com/Yorichi07/darts)
 
-- 🌱 I’m currently learning **Angular, Flutter, Spring**
-
 - 💬 Ask me about **C, C++, Python, Java**
 
 - 📫 How to reach me **devganaditya@gmail.com** or **500093618@stu.upes.ac.in**
