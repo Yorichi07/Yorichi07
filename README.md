@@ -17,7 +17,7 @@
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vibzz2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vibzz2003&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vibzz2003&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Yorichi07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Meme
 <img src='https://programmerhumor.io/wp-content/uploads/2023/09/programmerhumor-io-python-memes-backend-memes-0d75b4d5c62b5c9.jpg' style="height: 400px;"/>
