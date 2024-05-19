@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<img align="right" height="150" src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" alt="funny gif" />
+<iframe src="https://giphy.com/embed/3oKIPnAiaMCws8nOsE" width="300" height="150" frameBorder="0" allowFullScreen></iframe>
 
 - 🎓 I am currently in 3rd year of my B.Tech in Cloud Computing and Virtualization Technology from UPES, Dehradun
 
