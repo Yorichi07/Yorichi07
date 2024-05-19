@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
 <h3 align="center">A passionate software developer</h3>
 
-<img align="right" height="150" src="https://file.forms.app/sitefile/funny-developer-memes-36.gif" />
+<img align="right" height="150" src="https://file.forms.app/sitefile/funny-developer-memes-36.gif" alt="funny gif" />
 
 - 🎓 I am currently in 3rd year of my B.Tech in Cloud Computing and Virtualization Technology from UPES, Dehradun
 
