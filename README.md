@@ -25,5 +25,5 @@
 <img src='https://programmerhumor.io/wp-content/uploads/2023/09/programmerhumor-io-python-memes-backend-memes-0d75b4d5c62b5c9.jpg' style="height: 400px;"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Yorichi07&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/{Yorichi07}/count.svg)
 
