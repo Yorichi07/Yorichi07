@@ -25,9 +25,7 @@
 ### 😂 Random Meme
 <img src='https://programmerhumor.io/wp-content/uploads/2023/09/programmerhumor-io-python-memes-backend-memes-0d75b4d5c62b5c9.jpg' style="height: 400px;"/>
 
----
 ![](https://komarev.com/ghpvc/?username=Yorichi07&style=for-the-badge)
 
----
 <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
 
