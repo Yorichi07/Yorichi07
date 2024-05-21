@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Yorichi07/Yorichi07/main/intro_cropped.mp4" alt="👋 Hi there! I'm Aditya" title="👋 Hi there! I'm Aditya"/>
+<img src="https://raw.githubusercontent.com/Yorichi07/Yorichi07/main/intro_cropped.gif" alt="👋 Hi there! I'm Aditya" title="👋 Hi there! I'm Aditya"/>
 <div align="justify">
 
 <h3 align="center">A passionate software developer</h3>
