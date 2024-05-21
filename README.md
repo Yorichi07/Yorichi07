@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Aditya Sharma</h1>
+<img src="https://raw.githubusercontent.com/Yorichi07/Yorichi07/main/intro.gif" alt="👋 Hi there! I'm Aditya" title="👋 Hi there! I'm Aditya"/>
+<div align="justify">
+
 <h3 align="center">A passionate software developer</h3>
 
 <img align="right" height="150" src="https://c.tenor.com/m9Ega9zEj1EAAAAM/coder-tester.gif" />
