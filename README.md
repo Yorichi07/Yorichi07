@@ -2,6 +2,7 @@
 <h3 align="center">A passionate software developer</h3>
 
 <img align="right" height="150" src="https://c.tenor.com/m9Ega9zEj1EAAAAM/coder-tester.gif" />
+
 - 🔭 I’m currently working on [D.A.R.T.S](https://github.com/Yorichi07/darts)
 
 - 💬 Ask me about **C, C++, Python, Java**
