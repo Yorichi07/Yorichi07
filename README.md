@@ -1,5 +1,4 @@
 <img src="https://raw.githubusercontent.com/Yorichi07/Yorichi07/main/intro_cropped.gif" alt="👋 Hi there! I'm Aditya" title="👋 Hi there! I'm Aditya"/>
-<div align="justify">
 
 <h3 align="center">A passionate software developer</h3>
 
@@ -29,5 +28,7 @@
 
 ![](https://komarev.com/ghpvc/?username=Yorichi07&style=for-the-badge)
 
-<img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+<div style="text-align: center;">
+  <img data-target="animated-image.replacedImage" alt="dino.gif" class="AnimatedImagePlayer-animatedImage" src="https://github.com/saadeghi/saadeghi/raw/master/dino.gif" style="display: block; opacity: 1;">
+</div>
 
