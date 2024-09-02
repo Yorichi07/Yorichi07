@@ -4,9 +4,9 @@
 
 <img align="right" height="150" src="https://c.tenor.com/m9Ega9zEj1EAAAAM/coder-tester.gif" />
 
-- 🔭 I’m currently working on [D.A.R.T.S](https://github.com/Yorichi07/darts)
+- 🔭 I’m currently working on [Infirmary-Frontend](https://github.com/Yorichi07/Infirmary-Frontend.git)
 
-- Here is my [Resume](https://drive.google.com/file/d/1mNsrAHeFHLjFDGjkImSyyKchkmc154fk/view?usp=sharing)
+- Here is my [Resume](https://drive.google.com/file/d/1YifUoWOdYNZ2ZZ6LYmN4iLfl8nAK9SlJ/view?usp=sharing)
 
 - 📫 How to reach me **devganaditya@gmail.com** or **500093618@stu.upes.ac.in**
 
