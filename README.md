@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Infirmary-Frontend](https://github.com/Yorichi07/Infirmary-Frontend.git)
 
-- Here is my [Resume](https://drive.google.com/file/d/1YifUoWOdYNZ2ZZ6LYmN4iLfl8nAK9SlJ/view?usp=sharing)
+- Here is my [Resume](https://drive.google.com/file/d/1h25Trt1AkjNDe39kSaXxHR04RymK38py/view?usp=sharing)
 
 - 📫 How to reach me **devganaditya@gmail.com** or **500093618@stu.upes.ac.in**
 
